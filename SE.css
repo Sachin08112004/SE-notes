@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(255, 205, 255);
+    background-color: skyblue;
     padding: 40px;
     font-family: Arial, Helvetica, sans-serif;
     line-height: 1.6rem;
@@ -10,7 +10,7 @@ body {
     padding: 4px 16px;
     margin-bottom: 16px;
     border-radius: 4px;
-    box-shadow: 1px 1px 5px rgb(255, 205, 255);
+    box-shadow: 1px 1px 5px skyblue;
     cursor: pointer;
 }
 
